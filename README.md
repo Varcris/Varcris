@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hola mi nombre es Cristian Vargas👋
 
+Estoy prendiendo programacion web
 <!--
 **Varcris/Varcris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
